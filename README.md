@@ -5,7 +5,9 @@ I like cancelling stuff off when done. Yeah this is the real meaning of cancel c
 
 But damn! Ain't I tired of carrying books/diaries with me every place I go?
 
-I want to build better habits for myself. Like you know that awakening that hits you suddenly from nowhere and you're just like "I really need to get my shit together!".
+I want to build better habits for myself. Like you know that awakening that hits you suddenly from nowhere and you're just like:
+
+> "I really need to get my shit together!".
 
 And I wanna be able to cancel each habit out once completed, whether daily, weekly or monthly. 
 
