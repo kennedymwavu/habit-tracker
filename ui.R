@@ -17,6 +17,13 @@ sidebar <- dashboardSidebar(
 
 # ----dashboardBody----
 body <- dashboardBody(
+  tags$head(
+    tags$link(
+      rel = "shortcut icon",
+      href = "images/favicon.ico"
+    )
+  ),
+
   lapply(getAdminLTEColors(), function(color) {
     box(status = color)
   })
