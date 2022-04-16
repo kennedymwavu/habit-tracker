@@ -12,7 +12,21 @@ header <- dashboardHeader(
 
 # ----dashboardSidebar----
 sidebar <- dashboardSidebar(
+  sidebarMenu(
+    id = "sidebarmenu",
+    flat = FALSE,
+    compact = TRUE,
 
+    menuItem(
+      text = "JS",
+      tabName = "js"
+    ),
+
+    menuItem(
+      text = "Django",
+      tabName = "django"
+    )
+  )
 )
 
 # ----dashboardBody----
